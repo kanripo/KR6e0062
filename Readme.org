@@ -1,12 +1,10 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:57:28.029608
-#+TITLE: 十地論義疏卷第一．第三
-#+PROPERTY: CBETA_ID T85n2799
-#+PROPERTY: ID KR6e0062
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2799
-#+PROPERTY: VOL 85
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 十地論義疏卷第一．第三 / master
+#+DATE: 2015-11-26 14:14:18.565375
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         T|【大】     |
 
-<pb:KR6e0062_T_000-0761a>¶
-
+* 目次
+* 卷
+** [[file:KR6e0062_001.txt][十地論義疏卷第一．第三 1]]
+** [[file:KR6e0062_003.txt][十地論義疏卷第一．第三 3]]
