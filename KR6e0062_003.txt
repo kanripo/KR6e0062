@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:57:28.089512
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:53
 #+TITLE: 十地論義疏卷第一．第三
 #+PROPERTY: CBETA_ID T85n2799
 #+PROPERTY: ID KR6e0062
