@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:57:28.089512
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:53
 #+TITLE: 十地論義疏卷第一．第三
 #+PROPERTY: CBETA_ID T85n2799
 #+PROPERTY: ID KR6e0062
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2799
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0062_T_003-0770a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
-
- 十地論義疏卷第三¶
+十地論義疏卷第三¶
 ¶
 
 槃而不永寂滅。實寂而常用。從初示成道。¶
